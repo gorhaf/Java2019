@@ -27,20 +27,11 @@ public class Main {
 
                 // 当我方汽车与对方汽车在同一车道上时
                 while (redCar.getDirection().equals(blueCar.getDirection())) {
-                    synchronized (redCar){
-                        try {
-                            blueCar.wait();
-                        } catch (InterruptedException e) {
-                            e.printStackTrace();
-                        }
+                    // 设置我方汽车行驶方向调整至另外一条车道上
+                    redCar.setDirection(redCar.getDirection().equals("上方") ? "下方" : "上方");
 
-                        // 设置我方汽车行驶方向调整至另外一条车道上
-                        redCar.setDirection(redCar.getDirection().equals("上方") ? "下方" : "上方");
-
-                        // 行驶汽车
-                        redCar.run();
-                        blueCar.notifyAll();
-                    }
+                    // 行驶汽车
+                    redCar.run();
                 }
             }
         });
@@ -52,20 +43,11 @@ public class Main {
 
                 // 当我方汽车与对方汽车在同一车道上时
                 while (blueCar.getDirection().equals(redCar.getDirection())) {
-                    synchronized (blueCar) {
-                        try {
-                            redCar.wait();
-                        } catch (InterruptedException e) {
-                            e.printStackTrace();
-                        }
-                        // 设置我方汽车行驶方向调整至另外一条车道上
-                        blueCar.setDirection(blueCar.getDirection().equals("上方") ? "下方" : "上方");
+                    // 设置我方汽车行驶方向调整至另外一条车道上
+                    blueCar.setDirection(blueCar.getDirection().equals("上方") ? "下方" : "上方");
 
-                        // 行驶汽车
-                        blueCar.run();
-
-                        redCar.notifyAll();
-                    }
+                    // 行驶汽车
+                    blueCar.run();
                 }
             }
         });
