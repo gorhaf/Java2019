@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * 安全缓冲区
  */
-public class SafeBuffer {
+public class SafeBuffer<E> {
 
     /**
      * 显式锁Lock
@@ -17,7 +17,7 @@ public class SafeBuffer {
     /**
      * 存入数据Condition
      */
-    private Condition putCondition  = lock.newCondition();
+    private Condition putCondition = lock.newCondition();
 
     /**
      * 获取数据Condition
@@ -27,7 +27,7 @@ public class SafeBuffer {
     /**
      * 数据容器
      */
-    private Object[] items = new Object[1];
+    private Object[] items = new Object[100];
 
     /**
      * 当前存入数据位置下标
@@ -50,7 +50,7 @@ public class SafeBuffer {
      * @param item 数据
      * @throws InterruptedException 当线程被中断时产生此异常
      */
-    public void put(Object item) throws InterruptedException {
+    public void put(E item) throws InterruptedException {
         try {
             // 获取锁
             lock.lock();
@@ -82,7 +82,7 @@ public class SafeBuffer {
      * @return 数据
      * @throws InterruptedException 当线程被中断时产生此异常
      */
-    public Object take() throws InterruptedException {
+    public E take() throws InterruptedException {
         try {
             // 获取锁
             lock.lock();
@@ -92,7 +92,7 @@ public class SafeBuffer {
                 takeCondition.await();
             }
             // 获取数据
-            Object data = items[takeptr];
+            E data = (E) items[takeptr];
             // 当获取数据下标大于最大下标时
             if (++takeptr > items.length - 1) {
                 // 重置获取数据下标

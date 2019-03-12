@@ -11,7 +11,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // 创建缓冲区
-        SafeBuffer safeBuffer = new SafeBuffer();
+        SafeBuffer<String> safeBuffer = new SafeBuffer<>();
 
         // 实现了Runnable接口的匿名内部类
         Runnable putRunnable = new Runnable() {
