@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ae234ce-cfce-4675-ba15-874173f0100a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hello" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/AbstractExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="92" column="24" lean-forward="true" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5627">
+              <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-536">
+              <caret line="1113" column="40" selection-start-line="1113" selection-start-column="40" selection-end-line="1113" selection-end-column="40" />
+              <folding>
+                <element signature="e#16817#16818#0" expanded="true" />
+                <element signature="e#16877#16878#0" expanded="true" />
+                <element signature="e#25340#25341#0" expanded="true" />
+                <element signature="e#25379#25380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/error.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="61" column="51" selection-start-line="61" selection-start-column="51" selection-end-line="61" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>)方法</find>
+      <find>missBR</find>
+      <find>keyLine</find>
+      <find>TomThread-63</find>
+      <find>递增</find>
+      <find>AtomicIntegerFieldUpdaterImpl</find>
+      <find>指定下标元素</find>
+      <find>int</find>
+      <find>String</find>
+      <find>System.out.println(value.getReference() + &quot;-&gt;&quot; + value.getStamp());</find>
+      <find>方法的作用是</find>
+      <find>System.out.println(&quot;</find>
+      <find>articles</find>
+      <find>cells</find>
+      <find>Long</find>
+      <find>a class=&quot;image&quot;</find>
+      <find>&lt;div class=&quot;slave&quot;&gt;&lt;a class=&quot;slave-title&quot;</find>
+      <find>http://toutiao.com/item/</find>
+      <find>&lt;/a&gt;</find>
+      <find>[“全栈2019”Java第</find>
+      <find>[《“全栈2019”Java原子操作</find>
+      <find>“全栈2019”Java</find>
+      <find />
+      <find>-@-</find>
+      <find>jstat -</find>
+      <find>threadTaskQueue</find>
+      <find>data-v-f9fa52e0</find>
+      <find>&lt;li data-v-f9fa52e0</find>
+      <find>class=&quot;title&quot;&gt;</find>
+      <find>&lt;/div&gt;&lt;/a&gt;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lab/RWDictionary.java" />
+        <option value="$PROJECT_DIR$/src/lab/ConcurrentDictionary.java" />
+        <option value="$PROJECT_DIR$/../../GitHub/Java2019/Thread/LockSupport/park​(Object blocker)/Hello/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab/node/edit.md" />
+        <option value="$PROJECT_DIR$/../../GitHub/Java2019/Thread/LockSupport/parkNanos(long nanos)/Hello/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/../../GitHub/Java2019/Thread/LockSupport/parkNanos(Object blocker, long nanos)/Hello/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab/node/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/lab/CompareAndSwap.java" />
+        <option value="$PROJECT_DIR$/src/kv.txt" />
+        <option value="$PROJECT_DIR$/src/value.txt" />
+        <option value="$PROJECT_DIR$/src/entity.txt" />
+        <option value="$PROJECT_DIR$/src/success.txt" />
+        <option value="$PROJECT_DIR$/src/miss.txt" />
+        <option value="$PROJECT_DIR$/src/lab/order/Order.java" />
+        <option value="$PROJECT_DIR$/src/lab/order/OrderInfos.txt" />
+        <option value="$PROJECT_DIR$/src/lab/order/OrderInfo.java" />
+        <option value="$PROJECT_DIR$/src/lab/order/Failure.txt" />
+        <option value="$PROJECT_DIR$/src/lab/order/ReadyList.txt" />
+        <option value="$PROJECT_DIR$/src/lab/order/OrderUtils.java" />
+        <option value="$PROJECT_DIR$/src/lab/order/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab/Sequencer.java" />
+        <option value="$PROJECT_DIR$/src/lab/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/Person.java" />
+        <option value="$PROJECT_DIR$/src/lab/Person.java" />
+        <option value="$PROJECT_DIR$/src/lab/LinkedQueue.java" />
+        <option value="$PROJECT_DIR$/src/lab/ABA.java" />
+        <option value="$PROJECT_DIR$/src/lab/old/&quot;全栈2019&quot;Java.txt" />
+        <option value="$PROJECT_DIR$/src/lab/old/&quot;全栈2019&quot;edit.txt" />
+        <option value="$PROJECT_DIR$/src/lab/article/Article.java" />
+        <option value="$PROJECT_DIR$/src/lab/old/20190124.txt" />
+        <option value="$PROJECT_DIR$/src/lab/ConcurrentStack.java" />
+        <option value="$PROJECT_DIR$/src/lab/article/TextUtils.java" />
+        <option value="$PROJECT_DIR$/src/lab/article/ArticleUtils.java" />
+        <option value="$PROJECT_DIR$/src/lab/node/temp.md" />
+        <option value="$PROJECT_DIR$/src/lab/node/类学习资料.md" />
+        <option value="$PROJECT_DIR$/src/main/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/ThreadFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/DenyPolicy.java" />
+        <option value="$PROJECT_DIR$/src/main/RunnableDenyException.java" />
+        <option value="$PROJECT_DIR$/src/main/RunnableQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/LinkedRunnableQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/BasicThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/InternalTask.java" />
+        <option value="$PROJECT_DIR$/src/main/MainThread.java" />
+        <option value="$PROJECT_DIR$/src/lab/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/StandardThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/err.txt" />
+        <option value="$PROJECT_DIR$/src/lab/article/Main.java" />
+        <option value="$PROJECT_DIR$/src/error.txt" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556945090300" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+      <recent name="lab.article" />
+      <recent name="lab" />
+      <recent name="lab.node" />
+      <recent name="one" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/lab/old" />
+      <recent name="$PROJECT_DIR$/src/lab/order" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.node.Main" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.node.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.order.Main" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.article.Main" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Hello" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.one.Main" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Main" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.VolatileTest" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.VolatileTest" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ae234ce-cfce-4675-ba15-874173f0100a" name="Default Changelist" comment="" />
+      <created>1540015326904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540015326904</updated>
+      <workItem from="1540015328190" duration="9935000" />
+      <workItem from="1540095659369" duration="1822000" />
+      <workItem from="1540219744953" duration="780000" />
+      <workItem from="1540265216809" duration="3439000" />
+      <workItem from="1540273305002" duration="2151000" />
+      <workItem from="1540359844642" duration="5910000" />
+      <workItem from="1540437658722" duration="12502000" />
+      <workItem from="1540520464301" duration="6128000" />
+      <workItem from="1540610486349" duration="11395000" />
+      <workItem from="1540697324076" duration="9004000" />
+      <workItem from="1540778003016" duration="12950000" />
+      <workItem from="1540863241202" duration="13339000" />
+      <workItem from="1540919451949" duration="68000" />
+      <workItem from="1540919545076" duration="24000" />
+      <workItem from="1540951957010" duration="11542000" />
+      <workItem from="1541036678051" duration="11117000" />
+      <workItem from="1541129263702" duration="6609000" />
+      <workItem from="1541211611378" duration="6973000" />
+      <workItem from="1541265256022" duration="2053000" />
+      <workItem from="1541306576216" duration="12276000" />
+      <workItem from="1541490866871" duration="8729000" />
+      <workItem from="1541650691471" duration="13376000" />
+      <workItem from="1541718156670" duration="1313000" />
+      <workItem from="1541816493263" duration="10455000" />
+      <workItem from="1541906943748" duration="6612000" />
+      <workItem from="1541991676455" duration="15605000" />
+      <workItem from="1542075491198" duration="8720000" />
+      <workItem from="1542164216952" duration="19000" />
+      <workItem from="1542164257853" duration="11172000" />
+      <workItem from="1542243122133" duration="35980000" />
+      <workItem from="1542341862738" duration="146000" />
+      <workItem from="1542423275241" duration="1692000" />
+      <workItem from="1542640981544" duration="87000" />
+      <workItem from="1542641153931" duration="13957000" />
+      <workItem from="1542765055342" duration="14045000" />
+      <workItem from="1542850847680" duration="510000" />
+      <workItem from="1542851558654" duration="17146000" />
+      <workItem from="1542938495138" duration="11747000" />
+      <workItem from="1543024745878" duration="167000" />
+      <workItem from="1543024974498" duration="17164000" />
+      <workItem from="1543111055897" duration="16320000" />
+      <workItem from="1543195809365" duration="18185000" />
+      <workItem from="1543290274014" duration="5543000" />
+      <workItem from="1543369641204" duration="13543000" />
+      <workItem from="1543461795327" duration="7025000" />
+      <workItem from="1543546212532" duration="9783000" />
+      <workItem from="1543628655415" duration="10308000" />
+      <workItem from="1543715513877" duration="8212000" />
+      <workItem from="1543809691354" duration="10946000" />
+      <workItem from="1543895187606" duration="3678000" />
+      <workItem from="1543975888027" duration="10467000" />
+      <workItem from="1544068653680" duration="9901000" />
+      <workItem from="1544150768264" duration="1933000" />
+      <workItem from="1544164707960" duration="1654000" />
+      <workItem from="1544241118191" duration="13236000" />
+      <workItem from="1544329608648" duration="26959000" />
+      <workItem from="1544510236685" duration="2907000" />
+      <workItem from="1544595393592" duration="7058000" />
+      <workItem from="1544669310242" duration="2286000" />
+      <workItem from="1544760104551" duration="4082000" />
+      <workItem from="1544839770654" duration="14324000" />
+      <workItem from="1545101978019" duration="6312000" />
+      <workItem from="1545132272441" duration="368000" />
+      <workItem from="1545192314437" duration="7187000" />
+      <workItem from="1545367405809" duration="8734000" />
+      <workItem from="1545788787793" duration="108349000" />
+      <workItem from="1547609106076" duration="74911000" />
+      <workItem from="1548484488759" duration="43065000" />
+      <workItem from="1550376349940" duration="3712000" />
+      <workItem from="1550457821053" duration="13549000" />
+      <workItem from="1550660989383" duration="97259000" />
+      <workItem from="1551601765845" duration="96885000" />
+      <workItem from="1552657991404" duration="75123000" />
+      <workItem from="1553525636260" duration="20231000" />
+      <workItem from="1553705836099" duration="23936000" />
+      <workItem from="1553838711254" duration="2154000" />
+      <workItem from="1553936745210" duration="24787000" />
+      <workItem from="1554357683965" duration="106791000" />
+      <workItem from="1555336796208" duration="20843000" />
+      <workItem from="1555472889663" duration="27231000" />
+      <workItem from="1555639850212" duration="22000000" />
+      <workItem from="1555762617221" duration="14249000" />
+      <workItem from="1555865910268" duration="2197000" />
+      <workItem from="1555947018456" duration="7518000" />
+      <workItem from="1555998696244" duration="5166000" />
+      <workItem from="1556091746068" duration="35246000" />
+      <workItem from="1556506870775" duration="4800000" />
+      <workItem from="1556556522354" duration="738000" />
+      <workItem from="1556581692065" duration="3020000" />
+      <workItem from="1556768745442" duration="20627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1403997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="945" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49072164" visible="true" weight="0.37606838" />
+      <window_info id="Structure" order="1" sideWeight="0.5113402" side_tool="true" weight="0.35897437" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info active="true" id="Favorites" order="6" sideWeight="0.50927836" side_tool="true" visible="true" weight="0.37606838" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32942554" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4314185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976552" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32942554" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32942554" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.5041032" />
+      <window_info anchor="bottom" id="Sequence" order="12" weight="0.33763188" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32942554" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" x="0" y="0" width="370" height="747" id="Documentation" order="9" side_tool="true" weight="0.32967034" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>926</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>627</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1113</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1052</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab/CachedData.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/CompareAndSwap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ExecutionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="1357" column="9" lean-forward="true" selection-start-line="1357" selection-start-column="9" selection-end-line="1357" selection-end-column="9" />
+          <folding>
+            <element signature="e#22870#22871#0" expanded="true" />
+            <element signature="e#22914#22915#0" expanded="true" />
+            <element signature="e#46280#46281#0" expanded="true" />
+            <element signature="e#46307#46308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.ScheduledFuture</node>
+            <node x="" y="">java.util.concurrent.RecursiveTask</node>
+            <node x="" y="">java.util.concurrent.TimeoutException</node>
+            <node x="" y="">java.util.concurrent.CompletionService</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.Future</node>
+            <node x="" y="">java.util.concurrent.CountedCompleter</node>
+            <node x="" y="">java.util.concurrent.RejectedExecutionHandler</node>
+            <node x="" y="">java.util.concurrent.Flow</node>
+            <node x="" y="">java.util.concurrent.RunnableScheduledFuture</node>
+            <node x="" y="">java.util.concurrent.Helpers</node>
+            <node x="" y="">java.util.concurrent.ThreadFactory</node>
+            <node x="" y="">java.util.concurrent.Delayed</node>
+            <node x="" y="">java.util.concurrent.SubmissionPublisher</node>
+            <node x="" y="">java.util.concurrent.CyclicBarrier</node>
+            <node x="" y="">java.util.concurrent.CancellationException</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentNavigableMap</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap</node>
+            <node x="" y="">java.util.concurrent.RecursiveAction</node>
+            <node x="" y="">java.util.concurrent.BlockingQueue</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.CompletionException</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArraySet</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.Executors</node>
+            <node x="" y="">java.util.concurrent.locks</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.CountDownLatch</node>
+            <node x="" y="">java.util.concurrent.CompletionStage</node>
+            <node x="" y="">java.util.concurrent.ExecutorCompletionService</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue</node>
+            <node x="" y="">java.util.concurrent.AbstractExecutorService</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.ForkJoinWorkerThread</node>
+            <node x="" y="">java.util.concurrent.FutureTask</node>
+            <node x="" y="">java.util.concurrent.Callable</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture</node>
+            <node x="" y="">java.util.concurrent.ConcurrentMap</node>
+            <node x="" y="">java.util.concurrent.RejectedExecutionException</node>
+            <node x="" y="">java.util.concurrent.ThreadLocalRandom</node>
+            <node x="" y="">java.util.concurrent.ScheduledExecutorService</node>
+            <node x="" y="">java.util.concurrent.DelayQueue</node>
+            <node x="" y="">java.util.concurrent.ExecutorService</node>
+            <node x="" y="">java.util.concurrent.RunnableFuture</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask</node>
+            <node x="" y="">java.util.concurrent.Executor</node>
+            <node x="" y="">java.util.concurrent.BlockingDeque</node>
+            <node x="" y="">java.util.concurrent.Semaphore</node>
+            <node x="" y="">java.util.concurrent.atomic</node>
+            <node x="" y="">java.util.concurrent.BrokenBarrierException</node>
+            <node x="" y="">java.util.concurrent.TransferQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque</node>
+            <node x="" y="">java.util.concurrent.TimeUnit</node>
+            <node x="" y="">java.util.concurrent.ExecutionException</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListSet</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool</node>
+            <node x="" y="">java.util.concurrent.Phaser</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque</node>
+            <node x="" y="">java.util.concurrent.Exchanger</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.05736188210415014" x="4346.0" y="3773.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/java.base">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>java.base</OriginalElement>
+          <nodes>
+            <node x="" y="">java.base</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/Starvation.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/Sequencer.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/SafeBuffer.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/Producer.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/NotReentrantLock.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/RunnableDenyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/DenyPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/InternalTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/LinkedRunnableQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/RunnableQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="72" column="82" selection-start-line="72" selection-start-column="82" selection-end-line="72" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="107" column="38" lean-forward="true" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1548" column="30" lean-forward="true" selection-start-line="1547" selection-start-column="7" selection-end-line="1548" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/article/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.ExecutorService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ExecutorService</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.Executor</node>
+            <node x="" y="">java.util.concurrent.ExecutorService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="275.0" y="197.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.ThreadPoolExecutor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ThreadPoolExecutor</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.AbstractExecutorService</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.DiscardOldestPolicy</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.Executor</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.Worker</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.AbortPolicy</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.DiscardPolicy</node>
+            <node x="" y="">java.util.concurrent.ExecutorService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="502.0" y="1141.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.Executors">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.Executors</OriginalElement>
+          <nodes>
+            <node x="1463.1666666666665" y="694.0">java.util.concurrent.Executors.RunnableAdapter</node>
+            <node x="67.75" y="705.0">java.util.concurrent.Executors.DefaultThreadFactory</node>
+            <node x="859.75" y="573.0">java.util.concurrent.Executors.DelegatedExecutorService</node>
+            <node x="787.625" y="982.0">java.util.concurrent.Executors.FinalizableDelegatedExecutorService</node>
+            <node x="337.74999999999994" y="694.0">java.util.concurrent.Executors.PrivilegedCallable</node>
+            <node x="526.75" y="694.0">java.util.concurrent.Executors.PrivilegedCallableUsingCurrentClassLoader</node>
+            <node x="0.0" y="971.0">java.util.concurrent.Executors.PrivilegedThreadFactory</node>
+            <node x="433.9999999999999" y="0.0">java.util.concurrent.Executors</node>
+            <node x="1109.625" y="938.0">java.util.concurrent.Executors.DelegatedScheduledExecutorService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.Executors.PrivilegedCallable" target="java.util.concurrent.Executors">
+              <point x="1.1368683772161603E-13" y="-36.5" />
+              <point x="422.25000000000006" y="553.0" />
+              <point x="641.4999999999999" y="553.0" />
+              <point x="-124.5" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DefaultThreadFactory" target="java.util.concurrent.Executors">
+              <point x="0.0" y="-25.5" />
+              <point x="192.75" y="543.0" />
+              <point x="558.4999999999999" y="543.0" />
+              <point x="-207.5" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="-137.0" y="-58.5" />
+              <point x="1246.625" y="913.0" />
+              <point x="1271.5" y="913.0" />
+              <point x="137.25" y="157.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.RunnableAdapter" target="java.util.concurrent.Executors">
+              <point x="0.0" y="-36.5" />
+              <point x="1547.6666666666665" y="533.0" />
+              <point x="1056.5" y="533.0" />
+              <point x="290.5000000000001" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedExecutorService" target="java.util.concurrent.Executors">
+              <point x="0.0" y="-157.5" />
+              <point x="1134.25" y="553.0" />
+              <point x="890.5" y="553.0" />
+              <point x="124.50000000000011" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.PrivilegedCallableUsingCurrentClassLoader" target="java.util.concurrent.Executors">
+              <point x="0.0" y="-36.5" />
+              <point x="682.75" y="553.0" />
+              <point x="724.4999999999999" y="553.0" />
+              <point x="-41.5" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.FinalizableDelegatedExecutorService" target="java.util.concurrent.Executors">
+              <point x="-67.75" y="-14.5" />
+              <point x="855.375" y="913.0" />
+              <point x="849.25" y="913.0" />
+              <point x="849.25" y="553.0" />
+              <point x="807.5" y="553.0" />
+              <point x="41.500000000000114" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.PrivilegedThreadFactory" target="java.util.concurrent.Executors.DefaultThreadFactory">
+              <point x="62.5" y="-25.5" />
+              <point x="187.5" y="913.0" />
+              <point x="192.75" y="913.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.FinalizableDelegatedExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="67.75" y="-14.5" />
+              <point x="990.875" y="913.0" />
+              <point x="997.0" y="913.0" />
+              <point x="-137.25" y="157.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.PrivilegedThreadFactory" target="java.util.concurrent.Executors">
+              <point x="-62.5" y="-25.5" />
+              <point x="62.5" y="913.0" />
+              <point x="57.25" y="913.0" />
+              <point x="57.25" y="533.0" />
+              <point x="475.4999999999999" y="533.0" />
+              <point x="-290.5" y="256.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.Executors">
+              <point x="137.0" y="-58.5" />
+              <point x="1520.625" y="913.0" />
+              <point x="1452.6666666666665" y="913.0" />
+              <point x="1452.6666666666665" y="543.0" />
+              <point x="973.5" y="543.0" />
+              <point x="207.5000000000001" y="256.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="380.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="142" column="22" lean-forward="true" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/BasicThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4675">
+          <caret line="280" column="36" selection-start-line="280" selection-start-column="36" selection-end-line="280" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/StandardThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/err.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="61" column="51" selection-start-line="61" selection-start-column="51" selection-end-line="61" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="55" column="17" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/article/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/error.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="135" column="9" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5627">
+          <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="92" column="24" lean-forward="true" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="264" column="14" selection-start-line="264" selection-start-column="14" selection-end-line="264" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="171" column="39" lean-forward="true" selection-start-line="171" selection-start-column="39" selection-end-line="171" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="1113" column="40" selection-start-line="1113" selection-start-column="40" selection-end-line="1113" selection-end-column="40" />
+          <folding>
+            <element signature="e#16817#16818#0" expanded="true" />
+            <element signature="e#16877#16878#0" expanded="true" />
+            <element signature="e#25340#25341#0" expanded="true" />
+            <element signature="e#25379#25380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hello</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
